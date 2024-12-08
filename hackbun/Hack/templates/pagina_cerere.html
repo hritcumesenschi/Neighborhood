@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formular Cerere Ajutor</title>
+    <link rel="stylesheet" href="/static/ale.css">
+</head>
+<div class="button-container">
+    <button class="back-button" onclick="window.location.href='/templates/startPage';">Înapoi</button>
+</div>
+
+
+<body class="cerere-ajutor">
+    <div class="container">
+        
+        <h1>Formular Cerere Ajutor</h1>
+        <form id="ajutorForm" method="POST" action="/templates/pagina_cerere">
+            <label for="titlu">Titlu:</label>
+            <input type="text" id="titlu" name="titlu" placeholder="Introdu titlul cererii..." required>
+        
+            <label for="descriere">Descriere:</label>
+            <textarea id="descriere" name="descriere" placeholder="Descrie cererea ta..." required></textarea>
+            
+            <label for="categorie">Categorie:</label>
+            <select id="categorie" name="categorie" required>
+                <option value="Reparatii">Reparații</option>
+                <option value="Varstnici">Vârstnici</option>
+                <option value="Voluntariat">Voluntariat</option>
+                <option value="Animale">Animale</option>
+                <option value="Carti">Cărți</option>
+                <option value="Tehnic">Tehnic</option>
+            </select>
+        </br>
+            <button type="submit">Trimite</button>
+        </form>
+        <div id="mesaj"></div>
+    </div>
+    
+
+
+</body>
+</html>
