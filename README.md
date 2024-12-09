@@ -1,7 +1,7 @@
 # In the Neighborhood
 ![Screenshot 2024-12-08 073948](https://github.com/user-attachments/assets/f196f769-bb01-44f3-b776-20a55c9d0350)
 **In the Neighborhood** is an app designed to support communities through mutual aid among neighbors. Users can offer and request help for various activities, from gardening to package collection, and earn points for each completed task. The app promotes an active and connected community through a reward system and notifications that encourage ongoing engagement.
-
+Collaborators: @petrutoctavianciolac & @Aleex2
 ## Features
 
 - **Mutual aid**: Request and offer help for various activities within your community.
