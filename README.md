@@ -1,29 +1,27 @@
-# In the neighborhood
+# In the Neighborhood
 
-**In the neighborhood** este o aplicație destinată să sprijine comunitățile prin ajutor reciproc între vecini. Utilizatorii pot oferi și solicita ajutor pentru diverse activități, de la grădinărit la colectarea coletelor, și câștiga puncte pentru fiecare sarcină completată.
-Aplicația promovează o comunitate activă și conectată, printr-un sistem de recompense și notificări care încurajează implicarea continuă.
+**In the Neighborhood** is an app designed to support communities through mutual aid among neighbors. Users can offer and request help for various activities, from gardening to package collection, and earn points for each completed task. The app promotes an active and connected community through a reward system and notifications that encourage ongoing engagement.
 
-## Caracteristici
+## Features
 
-- **Ajutor reciproc**: Solicită și oferă ajutor pentru activități diverse în comunitatea ta.
-- **Gamificare**: Câștigă puncte și premii pe măsură ce ajuti alți membri ai comunității.
-- **Evenimente**: Creează și participă la evenimente locale pentru a întări legăturile între vecini.
-- **Recomandări personalizate**: Cererile și ofertele de ajutor sunt match-uite pe abilitățile și interesele utilizatorului, pentru a asigura cele mai bune potriviri.
-- **Notificări pentru vârstnici**: Setează notificări pentru a verifica persoanele vârstnice din comunitatea ta și a le oferi ajutor.
+- **Mutual aid**: Request and offer help for various activities within your community.
+- **Gamification**: Earn points and rewards as you assist other community members.
+- **Events**: Create and join local events to strengthen connections among neighbors.
+- **Personalized recommendations**: Help requests and offers are matched to users’ skills and interests, ensuring the best fit.
+- **Notifications for the elderly**: Set notifications to check on elderly community members and offer them help.
 
-## Tehnologii folosite
+## Technologies Used
 
 - **Frontend**: HTML/CSS & JavaScript
 - **Backend**: Python
-- **Bază de date**: SQL Server
-- **Gamificare**: Sistem de puncte și recompense integrat
-- **Platforme**: Website
+- **Database**: SQL Server
+- **Gamification**: Integrated points and rewards system
+- **Platforms**: Website
 
-## Cum funcționează
+## How It Works
 
-1. **Creează un cont**: Înregistrează-te pentru a începe să folosești aplicația.
-2. **Setează-ți profilul**: Adaugă abilitățile și interesele tale pentru a primi recomandări personalizate.
-3. **Cere ajutor**: Creează o cerere de ajutor pentru activități din viața de zi cu zi.
-4. **Oferă ajutor**: Răspunde la cererile din comunitatea ta și câștigă puncte pentru fiecare sarcină completată.
-5. **Participă la evenimente**: Crează și participă la evenimente locale pentru a întări legăturile dintre vecini.
-
+1. **Create an account**: Sign up to start using the app.
+2. **Set up your profile**: Add your skills and interests to receive personalized recommendations.
+3. **Request help**: Create a help request for everyday activities.
+4. **Offer help**: Respond to requests in your community and earn points for each completed task.
+5. **Participate in events**: Create and join local events to strengthen connections between neighbors.
