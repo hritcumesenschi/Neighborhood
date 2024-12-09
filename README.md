@@ -28,3 +28,5 @@
 
 ![Screenshot 2024-12-08 074154](https://github.com/user-attachments/assets/fc3b1c25-fbb8-459e-aaad-8016f21e3de4)
 ![Screenshot 2024-12-08 074212](https://github.com/user-attachments/assets/f7eb9fe3-6262-4706-9717-c1f70d2c766b)
+
+- Similar projects: https://github.com/hritcumesenschi/BlaBlaCar
